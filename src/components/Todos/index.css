@@ -1,0 +1,17 @@
+#todo-container {
+
+}
+
+.todo-item {
+  color: #00ABE4;
+  margin: 10px 0;
+  text-align: left;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cross-btn {
+  cursor: pointer;
+  margin-left: 10px;
+}
